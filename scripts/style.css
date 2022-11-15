@@ -1,0 +1,14 @@
+h1, h2
+    {
+        color: white;
+    }
+body
+    {
+        background-image: url('/images/coolimage.jpg');
+    }
+.virus
+    {
+        color: red;
+        font-size: 200px;
+        padding: 400px;
+    }
