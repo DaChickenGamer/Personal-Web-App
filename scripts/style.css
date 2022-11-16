@@ -9,6 +9,7 @@ body
 .virus
     {
         color: red;
-        font-size: 200px;
+        font-size: 100px;
         padding: 400px;
+        font-family:'Times New Roman';
     }
