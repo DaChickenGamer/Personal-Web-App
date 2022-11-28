@@ -1,15 +1,40 @@
-h1, h2
+h1, h2, h3
     {
         color: white;
     }
 body
     {
-        background-image: url('/images/coolimage.jpg');
+        background: #b3b3b3;
     }
-.virus
+header
+{
+    background: #33363b;  
+}
+.link
+{
+    color: rgb(0, 140, 255);
+}
+.navbar
     {
-        color: red;
-        font-size: 100px;
-        padding: 400px;
-        font-family:'Times New Roman';
+        margin-left: 700px;
+        flex-direction: row;
+        flex-wrap: nowarp;
     }
+.navbar-item
+{
+        padding: 10px;
+        border: 1px solid #EEEEEE;
+        margin: 5px;
+        display: inline-block;     
+}
+.game-description
+{
+    display: block;
+    background-color: gray;
+    padding-left: 10px;
+    margin-right: 10px;
+    margin-right: 1500px;
+    border-radius: 20px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
