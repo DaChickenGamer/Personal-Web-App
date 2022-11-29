@@ -16,7 +16,6 @@ header
 }
 .navbar
     {
-        margin-left: 700px;
         flex-direction: row;
         flex-wrap: nowarp;
     }
