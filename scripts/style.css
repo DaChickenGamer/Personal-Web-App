@@ -35,6 +35,12 @@ a:visited
 {
     text-decoration: none;
 }
+.text-section
+{
+    background-color: gray;
+    border-radius: 20px;
+    padding: 6px;
+}
 .game-description
 {
     display: block;
