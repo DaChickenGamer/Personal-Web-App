@@ -8,7 +8,9 @@ body
     }
 header
 {
-    background: #33363b;  
+    background: #33363b;
+    border-radius: 20px;
+    padding: 3px;
 }
 .link
 {
@@ -26,6 +28,7 @@ header
         margin: 5px;
         display: inline-block; 
         font-family:'Courier New', Courier, monospace;
+        border-radius: 20px;
 }
 a:link
 {
